@@ -1,5 +1,20 @@
-- 👋 Hi, I’m Wahid and I'm currently a product manager on a portfolio analytics tool for the largest finance data provider.
-- 👀 I’m interested in building the best portfolio anayltics tool for retailers
-- 💞️ I’m looking to collaborate on the above project with developers that want to help the retail traders get access to the tools all the professional money managers have
+🧠⚡️ Wahid Jalil — Fintech Escapee Turned Full-Stack Builder of Everything
 
-- 📫 How to reach , reach out to me via linkedin Wahid Jalil
+Once upon a time, I was building large-scale systems at Bloomberg and Citadel. Now? I’m building whatever makes life easier, businesses smarter, and ideas real.
+
+👨‍🍳 I’ve gone from architecting financial analytics to architecting catering logistics (and yes, the cookies were 🔥).
+💸 From wrangling hedge fund dashboards to launching crypto TRS engines in my spare time.
+📬 From Jira queues to auto-emailing rebooking reminders for lash appointments.
+
+I love making tools that:
+
+Automate the boring stuff
+
+Bring real-world impact (not just code for code's sake)
+
+Mix finance, data, and a touch of hustle
+
+💼 Real estate funds the runway. Curiosity fuels the projects.
+🏗️ Always building. Often overengineering. Never not learning.
+
+This GitHub is my sandbox—feel free to poke around, fork something, or just say hi.
